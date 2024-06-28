@@ -1,4 +1,4 @@
-**PyBank **
+** PyBank **
 
 The total number of months included in the dataset
 
@@ -10,7 +10,7 @@ The greatest increase in profits (date and amount) over the entire period
 
 The greatest decrease in profits (date and amount) over the entire period
 
-**PyPoll **
+** PyPoll **
 
 The dataset is composed of three columns: "Voter ID", "County", and "Candidate".
 
