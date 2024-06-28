@@ -1,5 +1,4 @@
-** PyBank ** 
-
+* PyBank * 
 The total number of months included in the dataset
 
 The net total amount of "Profit/Losses" over the entire period
@@ -10,7 +9,7 @@ The greatest increase in profits (date and amount) over the entire period
 
 The greatest decrease in profits (date and amount) over the entire period
 
-** PyRoll **
+* PyRoll *
 
 The dataset is composed of three columns: "Voter ID", "County", and "Candidate".
 
